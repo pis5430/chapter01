@@ -50,8 +50,10 @@ public class Ex05 {
 		String name = sc.nextLine();
 		
 		System.out.println("당신의 이름은 " + name + " 나이는 " + age + " 키는 " + cm + " 입니다. ");
+		System.out.println("깃허브 테스트 문장");
+		System.out.println("깃허브 테스트 문장");
 		
-		
+		sc.close();
 	}
 	
 	
