@@ -6,20 +6,22 @@ public class Ex06 {
 		
 
 		
-		String t = "*"; //표시는 되지만 의도하는 바는 아닌것 같음..
+		int i;
+		int j;
 		
-		for(int i = 1; i<=6; i++ ) {
+		
+		for(i=1; i<=6; i++ ) { 
 			
-			System.out.print(t);
-			System.out.print(t);
-			System.out.print(t);
-			System.out.print(t);
-			System.out.print(t);
-			System.out.println(t);
-
+			for(j=1; j<=6; j++) { 
+				
+				
+				System.out.print("*");
+				
+			}
 			
-			
+			System.out.println(" "); //줄바꿈 효과
 		}
+		
 
 	}
 
