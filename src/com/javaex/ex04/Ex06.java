@@ -4,14 +4,19 @@ public class Ex06 {
 
 	public static void main(String[] args) {
 		
+
 		
+		String t = "*"; //표시는 되지만 의도하는 바는 아닌것 같음..
 		
-		String text = "*";
-		
-		for(int i = 0; i>7; i++ ) {
+		for(int i = 1; i<=6; i++ ) {
 			
-			System.out.println(text);
-			System.out.println(i);
+			System.out.print(t);
+			System.out.print(t);
+			System.out.print(t);
+			System.out.print(t);
+			System.out.print(t);
+			System.out.println(t);
+
 			
 			
 		}
