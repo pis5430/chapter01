@@ -15,7 +15,7 @@ public class Ex06 {
 			for(j=1; j<=6; j++) { 
 				
 				
-				System.out.print("*");
+				System.out.print("*"); //6번 반복
 				
 			}
 			
