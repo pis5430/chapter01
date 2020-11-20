@@ -33,6 +33,7 @@ public class Ex07 {
 	
 	System.out.println("arrB출력↓");
 	
+	arrB[1] = 500;
 	
 	for(int i=0; i<arrB.length; i++) {
 		System.out.println(arrB[i]);	
