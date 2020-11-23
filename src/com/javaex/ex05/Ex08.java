@@ -4,7 +4,7 @@ public class Ex08 {
 
 	public static void main(String[] args) {
 		
-		int[] arrA = new int[] {11,20,305};
+		int[] arrA = new int[] {10,25,33};
 		int[] arrB = new int[] {10,25,30};
 		
 		

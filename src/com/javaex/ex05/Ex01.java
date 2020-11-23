@@ -6,6 +6,7 @@ public class Ex01 {
 		// TODO Auto-generated method stub
 		
 		/*  //왜 숫자가 중복되지?
+		 	//중복 제거를 따로 해줘야함
 		
 		int num = (int)(Math.random()*45)+1;
 		int i;
